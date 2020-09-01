@@ -4,4 +4,4 @@ Estarei iniciando um projeto para trazer alguns livros do inglês para o portugu
 
 # Listas de ebooks
 
-1. [Learning PHP, MySQL & JavaScript - 5th Edition](example.com/this)
+1. [Learning PHP, MySQL & JavaScript - 5th Edition](example.com/this) (**em tradução**)
